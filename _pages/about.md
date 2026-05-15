@@ -40,7 +40,6 @@ author_profile: false
       <a href="mailto:fae5461@gmail.com">email</a>
       <a href="https://github.com/0xFAE">github</a>
       <a href="https://scholar.google.com/citations?user=MwsBf2AAAAAJ&hl=en">scholar</a>
-      <a href="/cv/">cv</a>
     </div>
   </div>
 </section>
