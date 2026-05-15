@@ -41,3 +41,75 @@
     "vendor/font-awesome/solid",
     "vendor/font-awesome/brands"
 ;
+
+html,
+body,
+#main,
+.page,
+.page__inner-wrap,
+.archive,
+.initial-content {
+  background: #050505 !important;
+  color: #f6eaf1 !important;
+}
+
+body {
+  font-family: "SFMono-Regular", Consolas, "Liberation Mono", Menlo, monospace !important;
+}
+
+.page {
+  max-width: 980px !important;
+  margin: 0 auto !important;
+  padding: 2rem !important;
+}
+
+.page__content {
+  font-size: 0.98rem !important;
+  line-height: 1.75 !important;
+}
+
+.page__content h1,
+.page__content h2,
+.page__content h3 {
+  color: #ff4fa3 !important;
+}
+
+.page__content h2 {
+  border-bottom: 1px solid #ff4fa3 !important;
+  padding-bottom: 0.35rem !important;
+  margin-top: 3rem !important;
+}
+
+.page__content a {
+  color: #ff79b8 !important;
+}
+
+.page__content strong {
+  color: #ffffff !important;
+}
+
+.profile-photo {
+  display: block !important;
+  width: 230px !important;
+  height: auto !important;
+  border-radius: 14px !important;
+  margin: 1.5rem auto 2.5rem auto !important;
+  border: 1px solid #ff4fa3 !important;
+  box-shadow: 0 0 24px rgba(255, 79, 163, 0.35) !important;
+}
+
+.masthead,
+.greedy-nav {
+  background: #050505 !important;
+}
+
+.greedy-nav a {
+  color: #f6eaf1 !important;
+}
+
+.sidebar,
+.author__avatar,
+.author__content,
+.author__urls-wrapper {
+  display: none !important;
+}
