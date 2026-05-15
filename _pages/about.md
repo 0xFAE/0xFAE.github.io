@@ -197,15 +197,17 @@ author_profile: false
 <section id="contact">
   <h2>// contact</h2>
 
-  <div class="buttons">
-    <a href="mailto:fatima.elsheimy@yale.edu">email</a>
+  <div class="contact-links">
+    <a href="mailto:fatima.elsheimy@yale.edu">
+      fatima.elsheimy@yale.edu
+    </a>
 
     <a href="https://github.com/0xFAE">
       github
     </a>
 
     <a href="https://scholar.google.com/citations?user=MwsBf2AAAAAJ&hl=en">
-      google scholar
+      scholar
     </a>
 
     <a href="https://www.linkedin.com/in/fatima-elsheimy">
