@@ -151,8 +151,7 @@ author_profile: false
     </div>
 
     <p>
-      Worked with Mussadiq Jalalzai and Kushal Babel on blockchain consensus
-      protocols and practical Byzantine fault tolerant systems.
+      Worked with Mussadiq Jalalzai on MonadBFT.
     </p>
   </div>
 
@@ -175,7 +174,7 @@ author_profile: false
   <div class="entry">
     <div class="entry-header">
       <span class="entry-title">UC Berkeley</span>
-      <span class="entry-date">2020–2022</span>
+      <span class="entry-date">2022</span>
     </div>
 
     <div class="entry-subtitle">
