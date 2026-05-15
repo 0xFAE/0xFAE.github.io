@@ -14,14 +14,13 @@ classes: wide
 
   <p class="subtitle">
     PhD candidate in Computer Science at Yale University.
-    I work on distributed systems, cryptography, and Byzantine fault-tolerant consensus.
+    I work on distributed systems and cryptography.
   </p>
 
   <div class="links">
     <a href="#research">research</a>
     <a href="#publications">publications</a>
     <a href="#talks">talks</a>
-    <a href="#cv">cv</a>
     <a href="https://scholar.google.com/citations?user=MwsBf2AAAAAJ&hl=en">scholar</a>
     <a href="https://github.com/0xFAE">github</a>
   </div>
