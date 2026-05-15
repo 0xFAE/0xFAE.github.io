@@ -201,7 +201,7 @@ author_profile: false
 
   <div class="contact-links">
     <a href="mailto:fatima.elsheimy@yale.edu">
-      fatima.elsheimy@yale.edu
+      email
     </a>
 
     <a href="https://github.com/0xFAE">
