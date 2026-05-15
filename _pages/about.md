@@ -14,7 +14,6 @@ author_profile: false
 
   <nav>
     <a href="#about"> about</a>
-    <a href="#research"> research</a>
     <a href="#publications"> publications</a>
      <a href="#experience">experience</a>
     <a href="#teaching">teaching</a>
