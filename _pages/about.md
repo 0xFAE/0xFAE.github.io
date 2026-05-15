@@ -36,12 +36,13 @@ author_profile: false
   </a>.
   I began my PhD in Fall 2022 under the supervision of
   <a href="https://www.cs.yale.edu/homes/cpap/">
-    Prof. Charalampos Papamanthou, and I also work closely with
+    Prof. Charalampos Papamanthou
+  </a>,
+  and I also work closely with
   <a href="https://www.julianloss.com">
     Julian Loss
   </a>.
-  My research lies at the intersection of distributed systems,
-  cryptography, and blockchain protocols.
+  My research lies at the intersection of Distributed Systems and Cryptography.
 </p>
 </div>
 </section>
