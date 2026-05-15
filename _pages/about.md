@@ -28,20 +28,24 @@ author_profile: false
   <div>
     <h2>// about</h2>
 
-    <p>
-      I am a PhD candidate in the Department of Computer Science at Yale University
-      and a member of the <a href="http://yacl.cs.yale.edu">Yale Applied Cryptography Laboratory</a>.
-      I began my PhD in Fall 2022 under the supervision of
-      <a href="https://www.cs.yale.edu/homes/cpap/">Prof. Charalampos Papamanthou</a>.
-      My research lies at the intersection of Distributed Systems and Cryptography.
-    </p>
-
-    <div class="buttons">
-      <a href="mailto:fae5461@gmail.com">email</a>
-      <a href="https://github.com/0xFAE">github</a>
-      <a href="https://scholar.google.com/citations?user=MwsBf2AAAAAJ&hl=en">scholar</a>
-    </div>
-  </div>
+     <p>
+  I am a PhD candidate in the Department of Computer Science at Yale University
+  and a member of the
+  <a href="http://yacl.cs.yale.edu">
+    Yale Applied Cryptography Laboratory
+  </a>.
+  I began my PhD in Fall 2022 under the supervision of
+  <a href="https://www.cs.yale.edu/homes/cpap/">
+    Prof. Charalampos Papamanthou
+  </a>.
+  I also work closely with
+  <a href="https://www.julianloss.com">
+    Julian Loss
+  </a>.
+  My research lies at the intersection of distributed systems,
+  cryptography, and blockchain protocols.
+</p>
+</div>
 </section>
 
 
