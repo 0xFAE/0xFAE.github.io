@@ -7,21 +7,6 @@ author_profile: false
 
 <link rel="stylesheet" href="/assets/css/terminal.css">
 
-<div class="toggle-theme">
-  <button id="theme-toggle">☾</button>
-</div>
-
-<script>
-document.addEventListener("DOMContentLoaded", function () {
-  const button = document.getElementById("theme-toggle");
-
-  button.onclick = function () {
-    document.body.classList.toggle("light-mode");
-    button.textContent = document.body.classList.contains("light-mode") ? "☀" : "☾";
-  };
-});
-</script>
-
 <div class="site-shell">
 
 <header class="terminal-header">
