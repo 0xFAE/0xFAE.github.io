@@ -16,6 +16,8 @@ author_profile: false
     <a href="#about"> about</a>
     <a href="#research"> research</a>
     <a href="#publications"> publications</a>
+     <a href="#experience">experience</a>
+    <a href="#teaching">teaching</a>
     <a href="#news"> news</a>
     <a href="#contact"> contact</a>
   </nav>
@@ -133,6 +135,58 @@ author_profile: false
       <em>EuroS&amp;P 2023</em>
     </div>
   </div>
+</section>
+
+<section id="experience" class="terminal-section">
+  <h2>experience</h2>
+
+  <div class="entry">
+    <div class="entry-header">
+      <span class="entry-title">Category Labs</span>
+      <span class="entry-date">2025</span>
+    </div>
+
+    <div class="entry-subtitle">
+      Research Intern · New York
+    </div>
+
+    <p>
+      Worked with Mussadiq Jalalzai and Kushal Babel on blockchain consensus
+      protocols and practical Byzantine fault tolerant systems.
+    </p>
+  </div>
+
+  <div class="entry">
+    <div class="entry-header">
+      <span class="entry-title">CISPA Helmholtz Center</span>
+      <span class="entry-date">2024</span>
+    </div>
+
+    <div class="entry-subtitle">
+      Visiting Researcher · Germany
+    </div>
+
+    <p>
+      Worked with Julian Loss on efficient consensus protocols and
+      early-stopping Byzantine agreement.
+    </p>
+  </div>
+
+  <div class="entry">
+    <div class="entry-header">
+      <span class="entry-title">UC Berkeley</span>
+      <span class="entry-date">2020–2022</span>
+    </div>
+
+    <div class="entry-subtitle">
+      Visiting Researcher
+    </div>
+
+    <p>
+      Worked with Dawn Song on data sovereignty and Web3 systems.
+    </p>
+  </div>
+
 </section>
 
 <section id="news">
