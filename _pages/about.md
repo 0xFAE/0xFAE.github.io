@@ -15,11 +15,11 @@ author_profile: false
   </div>
 
   <nav>
-    <a href="#about">// about</a>
-    <a href="#research">// research</a>
-    <a href="#publications">// publications</a>
-    <a href="#news">// news</a>
-    <a href="#contact">// contact</a>
+    <a href="#about"> about</a>
+    <a href="#research"> research</a>
+    <a href="#publications"> publications</a>
+    <a href="#news"> news</a>
+    <a href="#contact"> contact</a>
   </nav>
 </header>
 
@@ -28,10 +28,6 @@ author_profile: false
 
   <div>
     <h2>// about</h2>
-
-    <h3>Fatima Elsheimy</h3>
-    <p class="pink">PhD Candidate in Computer Science @ Yale University</p>
-
     <p>
       I am a PhD candidate in the Department of Computer Science at Yale University
       and a member of the <a href="http://yacl.cs.yale.edu">Yale Applied Cryptography Laboratory</a>.
