@@ -13,11 +13,11 @@ author_profile: false
   <h1>FATIMA ELSHEIMY</h1>
 
   <nav>
-    <a href="#about">// about</a>
-    <a href="#research">// research</a>
-    <a href="#publications">// publications</a>
-    <a href="#news">// news</a>
-    <a href="#contact">// contact</a>
+    <a href="#about"> about</a>
+    <a href="#research"> research</a>
+    <a href="#publications"> publications</a>
+    <a href="#news"> news</a>
+    <a href="#contact"> contact</a>
   </nav>
 </header>
 
