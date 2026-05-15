@@ -138,7 +138,7 @@ author_profile: false
 </section>
 
 <section id="experience" class="terminal-section">
-  <h2>experience</h2>
+  <h2>// experience</h2>
 
   <div class="entry">
     <div class="entry-header">
