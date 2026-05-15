@@ -146,10 +146,6 @@ author_profile: false
 <section id="contact">
   <h2>// contact</h2>
 
-  <p>
-    <span class="pink">fatima@terminal:~$</span> links
-  </p>
-
   <div class="buttons">
     <a href="mailto:fatima.elsheimy@yale.edu">email</a>
 
@@ -167,8 +163,5 @@ author_profile: false
   </div>
 </section>
 
-<footer>
-  <span class="pink">fae@system:~$</span> █
-</footer>
 
 </div>
