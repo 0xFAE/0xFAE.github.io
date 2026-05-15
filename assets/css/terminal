@@ -206,4 +206,23 @@ footer {
   .pub {
     grid-template-columns: 1fr;
   }
+
+.contact-links {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 14px;
+  margin-top: 18px;
+}
+
+.contact-links a {
+  text-decoration: none;
+  padding: 8px 14px;
+  border: 1px solid #333;
+  border-radius: 10px;
+  transition: 0.2s ease;
+}
+
+.contact-links a:hover {
+  border-color: #ff4fa3;
+  color: #ff4fa3;
 }
