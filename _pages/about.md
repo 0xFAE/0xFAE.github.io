@@ -28,7 +28,6 @@ author_profile: false
   <div>
     <h2>// about</h2>
 
-     <p>
   I am a PhD candidate in the Department of Computer Science at Yale University
   and a member of the
   <a href="http://yacl.cs.yale.edu">
@@ -43,8 +42,8 @@ author_profile: false
     Julian Loss
   </a>.
   My research lies at the intersection of Distributed Systems and Cryptography.
-</p>
-</div>
+  </p>
+  </div>
 </section>
 
 
