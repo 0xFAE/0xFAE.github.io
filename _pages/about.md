@@ -51,16 +51,6 @@ classes: wide
   </div>
 </section>
 
-<section id="research">
-  <h2>// research interests</h2>
-
-  <ul class="terminal-list">
-    <li>Byzantine Fault-Tolerant Consensus</li>
-    <li>Distributed Systems</li>
-    <li>Cryptography</li>
-    <li>Secure Multi-Party Computation</li>
-    <li>Censorship Resistance</li>
-  </ul>
 </section>
 
 <section id="publications">
