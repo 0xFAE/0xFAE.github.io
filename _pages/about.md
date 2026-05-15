@@ -35,9 +35,9 @@ author_profile: false
   </a>.
   I began my PhD in Fall 2022 under the supervision of
   <a href="https://www.cs.yale.edu/homes/cpap/">
-    Prof. Charalampos Papamanthou
-  </a>,
-  and I also work closely with
+    Prof. Charalampos Papamanthou.
+  </a>
+   I also work closely with
   <a href="https://www.julianloss.com">
     Julian Loss
   </a>.
