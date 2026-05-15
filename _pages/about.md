@@ -41,8 +41,8 @@ author_profile: false
   <a href="https://www.julianloss.com">
     Julian Loss
   </a>.
-  My research lies at the intersection of Distributed Systems and Cryptography.
-  </p>
+  My research lies at the intersection of distributed systems,
+  cryptography, and blockchain protocols.
   </div>
 </section>
 
