@@ -11,8 +11,7 @@ classes: wide
 
 <header class="terminal-header">
   <div>
-    <h1>0xFAE</h1>
-    <p>researcher · cryptography · distributed systems</p>
+    <h1>FATIMA ELSHEIMY</h1>
   </div>
 
   <nav>
