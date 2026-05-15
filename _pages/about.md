@@ -7,19 +7,32 @@ author_profile: false
 
 <link rel="stylesheet" href="/assets/css/terminal.css">
 
+<div class="toggle-theme">
+  <button id="theme-toggle">☾</button>
+</div>
+
+<script>
+document.addEventListener("DOMContentLoaded", function () {
+  const button = document.getElementById("theme-toggle");
+
+  button.onclick = function () {
+    document.body.classList.toggle("light-mode");
+    button.textContent = document.body.classList.contains("light-mode") ? "☀" : "☾";
+  };
+});
+</script>
+
 <div class="site-shell">
 
 <header class="terminal-header">
-  <div>
-    <h1>FATIMA ELSHEIMY</h1>
-  </div>
+  <h1>FATIMA ELSHEIMY</h1>
 
   <nav>
-    <a href="#about"> about</a>
-    <a href="#research"> research</a>
-    <a href="#publications"> publications</a>
-    <a href="#news"> news</a>
-    <a href="#contact"> contact</a>
+    <a href="#about">// about</a>
+    <a href="#research">// research</a>
+    <a href="#publications">// publications</a>
+    <a href="#news">// news</a>
+    <a href="#contact">// contact</a>
   </nav>
 </header>
 
@@ -28,6 +41,7 @@ author_profile: false
 
   <div>
     <h2>// about</h2>
+
     <p>
       I am a PhD candidate in the Department of Computer Science at Yale University
       and a member of the <a href="http://yacl.cs.yale.edu">Yale Applied Cryptography Laboratory</a>.
@@ -45,7 +59,6 @@ author_profile: false
   </div>
 </section>
 
-</section>
 
 <section id="publications">
   <h2>// publications</h2>
@@ -139,6 +152,7 @@ author_profile: false
 
 <section id="news">
   <h2>// news</h2>
+
   <ul class="terminal-list">
     <li><b>August 2022:</b> Started my PhD journey!</li>
   </ul>
@@ -146,6 +160,7 @@ author_profile: false
 
 <section id="contact">
   <h2>// contact</h2>
+
   <p>
     <span class="pink">fae@system:~$</span> contact<br>
     New Haven, CT, USA<br>
