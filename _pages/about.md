@@ -147,10 +147,24 @@ author_profile: false
   <h2>// contact</h2>
 
   <p>
-    <span class="pink">fae@system:~$</span> contact<br>
-    New Haven, CT, USA<br>
-    <a href="mailto:fae5461@gmail.com">fae5461@gmail.com</a>
+    <span class="pink">fatima@terminal:~$</span> links
   </p>
+
+  <div class="buttons">
+    <a href="mailto:fatima.elsheimy@yale.edu">email</a>
+
+    <a href="https://github.com/0xFAE">
+      github
+    </a>
+
+    <a href="https://scholar.google.com/citations?user=MwsBf2AAAAAJ&hl=en">
+      google scholar
+    </a>
+
+    <a href="https://www.linkedin.com/in/fatima-elsheimy">
+      linkedin
+    </a>
+  </div>
 </section>
 
 <footer>
