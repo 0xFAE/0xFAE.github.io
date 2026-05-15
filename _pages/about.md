@@ -1,8 +1,8 @@
 ---
 permalink: /
-title: "Fatima Elsheimy"
+title: ""
+layout: single
 author_profile: false
-classes: wide
 ---
 
 <link rel="stylesheet" href="/assets/css/terminal.css">
