@@ -28,7 +28,6 @@ author_profile: false
 
   <div>
     <h2>// about</h2>
-    <p class="prompt">fae@system:~$ whoami</p>
 
     <h3>Fatima Elsheimy</h3>
     <p class="pink">PhD Candidate in Computer Science @ Yale University</p>
