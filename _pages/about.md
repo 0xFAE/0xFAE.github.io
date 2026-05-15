@@ -30,9 +30,7 @@ classes: wide
 <section id="research">
   <h2>research</h2>
   <p>
-    My research lies at the intersection of distributed systems and cryptography,
-    with a focus on consensus protocols, Byzantine agreement, censorship resistance,
-    and secure distributed computation.
+    My research lies at the intersection of distributed systems and cryptography.
   </p>
 </section>
 
@@ -87,10 +85,6 @@ classes: wide
   <p>Coming soon.</p>
 </section>
 
-<section id="cv">
-  <h2>cv</h2>
-  <p><a href="/files/cv.pdf">Download CV</a></p>
-</section>
 
 <section id="contact">
   <h2>contact</h2>
