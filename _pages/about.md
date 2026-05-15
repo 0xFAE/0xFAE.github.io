@@ -23,7 +23,7 @@ author_profile: false
 </header>
 
 <section id="about" class="hero">
-  <img src="/images/profile.jpg" class="profile-pic" alt="Fatima Elsheimy">
+  <img src="/images/profilee.jpg" class="profile-pic" alt="Fatima Elsheimy">
 
   <div>
     <h2>// about</h2>
